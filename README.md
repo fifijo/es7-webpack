@@ -5,7 +5,7 @@
 <a href="https://webpack.github.io" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/webpack.svg" height="50" /></a> 
 <a href="https://babeljs.io" target="_blank"> <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" height="50" /></a> 
 </a>
-<a href="https://eslint.org/" target="_blank"> <img src="https://eslint.org/img/logo.svg" height="50" /> </a>
+<a href="https://eslint.org/" target="_blank"> <img src="https://eslint.org/assets/img/logo.svg" height="50" /> </a>
 
 ## Features
 - [Webpack 4](https://webpack.js.org/) To bundle your assets, styles & scripts
