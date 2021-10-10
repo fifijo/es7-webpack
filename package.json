@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/fifijo/es7-webpack#readme",
   "devDependencies": {
-    "@babel/core": "7.11.4",
-    "@babel/preset-env": "7.11.0",
-    "babel-loader": "8.1.0",
+    "@babel/core": "7.15.8",
+    "@babel/preset-env": "7.15.8",
+    "babel-loader": "8.2.2",
     "clean-webpack-plugin": "3.0.0",
     "css-loader": "4.2.2",
     "eslint": "7.7.0",
